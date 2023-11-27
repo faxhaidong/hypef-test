@@ -1,0 +1,17 @@
+{
+    "name": "faxhaidong/hypref-log",
+    "type": "library",
+    "require": {
+        "hyperf/hyperf-skeleton": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Faxhaidong\\HyprefLog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "haidong"
+        }
+    ]
+}
